@@ -34,7 +34,7 @@
 
 ## 📊 Github Status
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=Satyam&show_icons=true"><p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyampote&show_icons=true&locale=en" alt="satyampote" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam&layout=compact"><p>
 
