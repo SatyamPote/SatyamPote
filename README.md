@@ -33,8 +33,6 @@
 
 ## 📊 Github Status
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=Satyam"><p>
-
 <p><img src="https://github-readme-stats.vercel.app/api?username=Satyam&show_icons=true"><p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam&layout=compact"><p>
