@@ -3,10 +3,10 @@
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="my banner">
 
 ## 💫 Liitle Bit More About Me
-<p>🌱 I'm currently learning java</p>
-<p>📫 How to reach me? satyampote9999@gmail.com</p>
-<p>⚡ Fun Fact: I am a fast learner</p>
-<p>✨ summary: Hello my-self Satyam and ,I have successfully completed a diploma in Mechatronic engineering. Despite my academic background in Mechatronics, I made a bold decision to switch my career path and transition into the field of technology. Motivated by a passion for programming and a desire to become a skilled developer, I am determined to embark on this new journey and thrive in the tech industry. With a strong foundation in Mechatronics and a newfound focus on software development, I am eager to embrace new challenges, learn cutting-edge technologies, and ultimately make a significant impact in the world of technology.</p>
+<p>🌱 I'm currently learning:    java</p>
+<p>📫 How to reach me?:    satyampote9999@gmail.com</p>
+<p>⚡ Fun Fact:     I am a fast learner</p>
+<p>✨ summary:  <br> <br> Hello my-self Satyam ,I have successfully completed a diploma in Mechatronic engineering. Despite my academic background in Mechatronics, I made a bold decision to switch my career path and transition into the field of technology. Motivated by a passion for programming and a desire to become a skilled developer, I am determined to embark on this new journey and thrive in the tech industry. With a strong foundation in Mechatronics and a newfound focus on software development, I am eager to embrace new challenges, learn cutting-edge technologies, and ultimately make a significant impact in the world of technology.</p> <br>
 
 ## 💻 Skills
 <p>
