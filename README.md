@@ -37,6 +37,6 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam&layout=compact"><p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyam"><p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Satyam%20&theme=radical&border_radius=4.4)](https://git.io/streak-stats)
 
 <p><img src="https://visitcount.itsvg.in/api?id=Satyam&label=Profile%20Views&color=12&icon=5&pretty=true"><p>
