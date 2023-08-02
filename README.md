@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="my banner">
 
-## 💫 Little Bit More About Me
+## 💫 A little bit about me
 <p>🌱 I'm currently learning:    java</p>
 <p>📫 How to reach me?:    satyampote9999@gmail.com</p>
 <p>⚡ Fun Fact:     I am a fast learner</p>
