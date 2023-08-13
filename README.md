@@ -20,9 +20,10 @@
 </p>
 
 ## 👥 Connect With Me
-<p>
-<a href="https://www.linkedin.com/in/satyam-pote-a7228323a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
-<a href="@https://instagram.com/its_illagle_haker_ ?igshid=MzRIODBINWFIZA==><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/satu843?s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/satu843?s=09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/satyam-pote" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyam-pote" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/its_illagle_haker_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/its_illagle_haker_/" height="30" width="40" /></a>
 </p>
 
 ## 🌟 Github Badges
