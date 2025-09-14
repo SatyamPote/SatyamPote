@@ -86,7 +86,7 @@ Even though I began in mechanical systems and automation, I pivoted to software 
 | 🌍 **Portfolio Website** | My personal portfolio built using modern stack | [satyampote.tech](https://satyampote.tech) |
 | 🧠 **Python Web App** | DMovies-Series---Rating | [satyampote.pythonanywhere.com](https://satyampote.pythonanywhere.com) |
 | 👶 **Infant Cry Analyzer** | AI-based baby cry detection using ML | [crydecoder.web.app](https://crydecoder.web.app) |
-| 👶 **AI-based Interviews** | AI-based Interviews and Resume Analyzer | [[crydecoder.web.app](http://nexhire.pythonanywhere.com/)](http://nexhire.pythonanywhere.com/) |
+| 🤖  **AI-based Interviews** | AI Interviews and AI Resume Analyzer | [nexhire.com](http://nexhire.pythonanywhere.com/) |
 
 ---
 
