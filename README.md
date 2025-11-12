@@ -82,6 +82,7 @@ Even though I began in mechanical systems and automation, I pivoted to software 
 
 | Project | Description | Live Link |
 |--------|-------------|-----------|
+| 🇦🇮  **AI Agent workflow** | Your AI-Powered Developer Command Center | [devflow.com](https://devflow-ai-ztwh.onrender.com/?inline=true&preview=true) |
 | 🔗 **CST Notes Web App** | Firebase-hosted app for engineering students | [cst-notes.web.app](https://cst-notes-71801.web.app) |
 | 🌍 **Portfolio Website** | My personal portfolio built using modern stack | [satyampote.tech](https://satyampote.tech) |
 | 🧠 **Python Web App** | DMovies-Series---Rating | [satyampote.pythonanywhere.com](https://satyampote.pythonanywhere.com) |
