@@ -1,174 +1,296 @@
-# 👨‍💻 Satyam Pote – Full Stack Developer | Software Engineer | Creative Technologist
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="banner" />
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/139366115?v=4" width="120" height="120" style="border-radius: 50%;" alt="Satyam Pote" />
+</p>
 
----
+<h1 align="center">Satyam Mahesh Pote</h1>
+<h3 align="center">Full-Stack Developer · Machine Learning Engineer · Creative Technologist</h3>
 
-## 🚀 About Me
+<p align="center">
+  <a href="https://personal-dashboard-h4t1.onrender.com/">🌐 Portfolio</a> ·
+  <a href="https://linkedin.com/in/satyam-pote">💼 LinkedIn</a> ·
+  <a href="https://github.com/SatyamPote">🐙 GitHub</a> ·
+  <a href="https://leetcode.com/satyapote">⚡ LeetCode</a> ·
+  <a href="https://huggingface.co/satu1234">🤗 HuggingFace</a> ·
+  <a href="https://beacons.ai/Satyam_Pote">🔗 Social Hub</a>
+</p>
 
-Hello! I'm **Satyam Pote**, a self-taught software developer with a diploma in **Mechatronics Engineering**, now working at the intersection of engineering and software. I'm passionate about building scalable applications and exploring innovative solutions to complex problems.
 
-Even though I began in mechanical systems and automation, I pivoted to software with an insatiable curiosity for how digital systems work. Today, I bring a unique blend of engineering thinking and coding expertise to every project I undertake.
 
----
+## About
 
-### 🧾 Summary:
+I am a Full-Stack Developer and Machine Learning Engineer focused on building software across web, mobile, and cloud ecosystems. My work spans building real-time AI conversation systems, training transformers from scratch, implementing medical imaging pipelines, and developing cross-platform applications.
 
-- 🧠 Self-taught developer with a background in **Mechatronics**
-- 💻 Experienced in **Full Stack Development**, **Web Apps**, and **Tooling**
-- 🛠️ Comfortable with **backend, databases, deployment, and front-end architecture**
-- 🌱 Currently learning: `Go`, `Java`, `Blockchain`, and advanced `DSA`
-- ✨ Fun Fact: I am a very **fast learner** and love learning from real-world projects
-- 📫 Email: `satyampote9999@gmail.com`
+I come from a Mechatronics background (diploma) and transitioned into software — bringing a unique blend of hardware thinking and engineering discipline to every project.
 
----
-
-## 💡 Tech Stack
-
-### 🖥️ Languages & Scripting
-
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+- **Vibeathon 2025 Winner** – 1st place among 367 teams at India's AI hackathon by Replit × Polaris
+- **Patent Filed** – Infant Cry Classification System (Application No: 202541047092)
+- **Finalist** – Smart India Hackathon 2025
+- **4th Place** – TiE Global Summit Ideathon 2024
+- **Open Source Contributor** – building modular tooling ecosystems
+- **B.Tech Candidate** – Computer Science & Engineering @ Dayananda Sagar University (2022–2026)
 
 ---
 
-### 🌐 Frontend & UI/UX
+## Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+### Frontend & UI
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Backend & APIs
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+### Machine Learning & AI
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-F8D347?style=flat&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+
+### Databases, Cloud & DevOps
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+### Hardware & Tools
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/Fusion_360-FFB000?style=flat&logo=autodesk&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 🧠 Backend & Databases
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-
----
-
-### 🛠️ Tools, IDEs & Platforms
-
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=flat-square&logo=unrealengine&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A.svg?style=flat-square&logo=blender&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FFB000.svg?style=flat-square&logo=autodesk&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazonaws&logoColor=white)
-
----
-
-## 📁 Featured Projects
-
-### 🌊 Fluxion Engine Ecosystem
-**A comprehensive game development framework with cross-platform support**
-
-The Fluxion Engine is a modular game development suite featuring support for multiple platforms and rendering systems. Explore the full ecosystem:
-
-🔗 **[Fluxion Engine Organization](https://github.com/orgs/Fluxion-engine/repositories)**
-
-**Key Features:**
-- Multi-platform game development support (Windows, macOS, Linux)
-- Advanced rendering pipeline
-- Physics simulation engine
-- Cross-platform tooling
-
-**Technologies Used:**
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat-square&logo=cmake&logoColor=white)
-
----
+## Featured Projects
 
 ### 🎵 Watermelon Music
-**A cross-platform music streaming and player application**
+*Cross-platform open-source music streaming ecosystem*
 
-A comprehensive music application with support for multiple platforms including Android, iOS, Web, and API backend.
+Native Android (Kotlin/Compose), iOS (SwiftUI), Web (React), and Backend API with background playback, local storage management, Cashfree billing integration, and centralized media server architecture. Smart search engine with auto-complete and fuzzy indexing. Background downloader with storage optimization and gapless playback.
 
-🔗 **[Watermelon Music Organization](https://github.com/watermelon-music/)**
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-1572B6?style=flat&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
-**Key Features:**
-- Native Android & iOS applications
-- Web-based player interface
-- RESTful API backend
-- Real-time synchronization across devices
-
-**Technologies Used:**
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat-square&logo=swift&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+🔗 [GitHub Organization](https://github.com/watermelon-music/)
 
 ---
 
-## 🌐 Active Projects & Deployments
+### 🤖 Fluxion Engine
+*Real-time AI conversation system with multi-persona orchestration*
 
-| Project | Description | Status | Link |
-|---------|-------------|--------|------|
-| ✦︎ **AI Agent Workflow** | Your AI-Powered Developer Command Center | Active | [devflow](https://devflow-ai-ztwh.onrender.com/?inline=true&preview=true) |
-| 🔗 **CST Notes Web App** | Firebase-hosted app for engineering students | Maintained | [cst-notes](https://cst-notes-71801.web.app) |
-| 🌍 **Personal Dashboard** | Personal portfolio & profile hub | Active | [dashboard](https://personal-dashboard-h4t1.onrender.com/) |
-| 🤖 **AI-based Interviews** | AI Interviews & AI Resume Analyzer | Maintained | [nexhire](http://nexhire.pythonanywhere.com/) |
+A modular application pipeline orchestrating real-time communication systems, voice synthesizers (TTS/STT), dynamic memory modules, and specialized AI personas. Features a JSON-configured persona framework with contextual injection, low-latency audio processing pipeline, and a responsive Electron desktop shell.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat&logo=nvidia&logoColor=white)
+
+🔗 [Repositories](https://github.com/orgs/Fluxion-engine/repositories) · [Website](https://fluxionengine.app/)
 
 ---
 
-## 📊 GitHub Insights
+### 🚀 DevFlow.Ai
+*AI-assisted developer workflow automation — Vibeathon 2025 Winner*
+
+Automation utility helping developers streamline complex code compilation, optimization, and system integration using LLM orchestration. Designed and deployed within a 36-hour coding window. Features intelligent context generation from local directories and real-time execution tracking.
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+🔗 [GitHub](https://github.com/SatyamPote/DevFlow.Ai)
+
+---
+
+## Other Projects
+
+<details>
+<summary><b>🧠 OwnLLM</b> — Transformer from Scratch (Python, PyTorch, CUDA)</summary>
+
+Complete custom implementation of a Decoder-only Transformer model with multi-head self-attention, Rotary Positional Embeddings (RoPE), and a custom O(n) Byte-Pair Encoding (BPE) tokenizer. Mixed-precision FP16 training with active loss scaling.
+
+🔗 [GitHub](https://github.com/SatyamPote/OwnLLM)
+</details>
+
+<details>
+<summary><b>🔬 CryDecoder</b> — Infant Cry Classifier (Python, TensorFlow, Flask)</summary>
+
+Deep learning CNN-LSTM architecture trained on acoustic cry patterns achieving 91%+ validation accuracy. Patent-filed system with symptom-to-disease mapping covering 4,500+ symptoms to 400+ medical entities. Deployed with user feedback portal.
+
+🔗 [Live App](https://crydecoder.web.app) · [GitHub](https://github.com/SatyamPote/CryDecoder)
+</details>
+
+<details>
+<summary><b>⚡ Concurrent API with Load Balancing</b> (Go, Python, PostgreSQL, Redis)</summary>
+
+High-concurrency REST engine comparing processing pipelines across Go, Node.js, and Python. Reached 5,300 RPS under stress testing. Implements custom rate limiters, LIFO/FIFO queue schemas, and task schedulers.
+
+🔗 [GitHub](https://github.com/SatyamPote/ConcurrentAPI)
+</details>
+
+<details>
+<summary><b>🏥 SMIRE-AI</b> — Medical Imaging System (Python, TensorFlow, pydicom)</summary>
+
+Semantic segmentation of MRI/CT scans using U-Net architectures with skip connections. Elastic deformation augmentation, DICOM parsing, and PDF report generation.
+
+🔗 [GitHub](https://github.com/SatyamPote/SMIRE-AI)
+</details>
+
+<details>
+<summary><b>👁️ OpenGUI</b> — AI-Powered Desktop Automation (Python, PyTorch, OpenCV)</summary>
+
+Fine-tuned YOLOv8 to detect UI elements (buttons, fields, bars) and orchestrate cross-platform mouse/keyboard automation. Automates repetitive workflows through visual parsing.
+
+🔗 [GitHub](https://github.com/SatyamPote/OpenGUI)
+</details>
+
+<details>
+<summary><b>🌐 CureConnect</b> — AI Disease Prediction System (Python, Flask, Scikit-learn)</summary>
+
+Clinical prediction platform using voting ensemble models (SVM, Random Forest, Gradient Boosting). Maps 4,500+ symptom profiles to diagnostic outputs with SpaCy NLP pipeline.
+
+🔗 [GitHub](https://github.com/SatyamPote/CureConnect)
+</details>
+
+<details>
+<summary><b>🖥️ Infinity-CLI</b> — Smart Terminal Interface (Node.js, TypeScript)</summary>
+
+Natural-language CLI that generates executable shell scripts from plain English. Fuzzy lookup, contextual history tracking, and error recovery parsing.
+
+🔗 [GitHub](https://github.com/SatyamPote/Infinity-CLI)
+</details>
+
+<details>
+<summary><b>🤝 HumanLoop</b> — AI Interview Simulator (React, Node.js, Socket.io)</summary>
+
+Interactive interview platform with real-time evaluation reports. Voice synthesis with adaptive prompt structures and multi-attribute scoring system.
+
+🔗 [GitHub](https://github.com/SatyamPote/HumanLoop)
+</details>
+
+<details>
+<summary><b>📱 Daly Streak</b> — Habit Tracking App (Flutter, Firebase)</summary>
+
+Offline-first habit tracker with custom FCM notifications and optimized Firestore sync layers supporting fully offline use.
+
+🔗 [GitHub](https://github.com/SatyamPote/DalyStreak)
+</details>
+
+<details>
+<summary><b>🎥 AI Video Interviewer</b> — Emotion Tracking Portal (Node.js, WebRTC, Chart.js)</summary>
+
+Real-time evaluation platform using Face++ APIs for engagement scoring, pose estimation, and expression analysis via WebRTC streaming.
+
+🔗 [GitHub](https://github.com/SatyamPote/AI-Video-Interviewer)
+</details>
+
+<details>
+<summary><b>💰 SocialFlo</b> — Content Automation & Subscriptions (React, Node.js, MongoDB)</summary>
+
+Multi-platform content scheduler with Stripe payment integration, automated webhooks, and Redis/Bull queue scheduling.
+
+🔗 [GitHub](https://github.com/SatyamPote/SocialFlo)
+</details>
+
+---
+
+## Live Deployments
+
+| Project | Link | Status |
+|---------|------|--------|
+| Personal Portfolio | [personal-dashboard-h4t1.onrender.com](https://personal-dashboard-h4t1.onrender.com/) | Active |
+| DevFlow.Ai | [devflow-ai-ztwh.onrender.com](https://devflow-ai-ztwh.onrender.com/) | Active |
+| CST Notes | [cst-notes-71801.web.app](https://cst-notes-71801.web.app/) | Under Maintenance |
+| NexHire AI Interviews | [nexhire.pythonanywhere.com](http://nexhire.pythonanywhere.com) | Under Maintenance |
+| CryDecoder AI | [crydecoder.web.app](https://crydecoder.web.app) | Active |
+| Fluxion Engine | [fluxionengine.app](https://fluxionengine.app/) | Active |
+| Profile Hub | [beacons.ai/Satyam_Pote](https://beacons.ai/Satyam_Pote) | Active |
+
+---
+
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SatyamPote&show_icons=true&theme=react" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyamPote&layout=compact&theme=react" height="170" />
-  <br />
-  <img src="https://streak-stats.demolab.com?user=SatyamPote&theme=react&border_radius=4.4" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SatyamPote&theme=react" />
 </p>
 
 ---
 
-## 📬 Let's Connect
+## Experience & Education
 
-| Platform | Link |
-|---------|------|
-| 🌐 Portfolio | [personal-dashboard-h4t1.onrender.com](https://personal-dashboard-h4t1.onrender.com/) |
-| 💼 LinkedIn | [linkedin.com/in/satyam-pote](https://www.linkedin.com/in/satyam-pote) |
-| 💻 GitHub | [github.com/SatyamPote](https://github.com/SatyamPote) |
-| 🏢 Fluxion Engine | [github.com/orgs/Fluxion-engine](https://github.com/orgs/Fluxion-engine) |
+### 💼 Software Engineering Intern
+**SocialFlo (Germany)** · *Dec 2024 – Jun 2025* · Remote
 
----
+Full-stack training engine (React.js, Node.js, Express.js, MongoDB). Multi-platform scheduling pipelines for social media with media adjustments. JWT authentication, RBAC, and Swagger/OpenAPI documentation.
 
-## 🎯 What I'm Working On
+### 🎓 B.Tech Computer Science & Engineering
+**Dayananda Sagar University, Bengaluru** · *2022 – 2026* · CGPA: 7.8/10
 
-- 🔨 Expanding **Fluxion Engine** ecosystem with new rendering capabilities
-- 🎵 Contributing to **Watermelon Music** project development
-- 🤖 Building advanced AI-powered developer tools
-- 📚 Creating educational content for full-stack development
+Core: Algorithms, Systems Programming, Databases, Computer Networks, Machine Learning.
+
+### 🎓 Diploma in Mechatronics Engineering
+**NTTF, Belgaum** · *2020 – 2023*
+
+Smart Factory Systems, automation engineering, PLC, microcontrollers.
 
 ---
 
 <p align="center">
-  <em>Always eager to collaborate on innovative projects and share knowledge with the community!</em>
+  <a href="https://beacons.ai/Satyam_Pote">🔗 All Links</a> ·
+  📧 satyampote9999@gmail.com ·
+  📍 Bengaluru, India
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
 </p>
