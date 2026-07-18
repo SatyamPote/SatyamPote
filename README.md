@@ -6,9 +6,9 @@
 
 ## 🚀 About Me
 
-Hello! I’m **Satyam Pote**, a self-taught software developer with a diploma in **Mechatronics Engineering**, now working at the intersection of engineering and software. I’m passionate about building **end-to-end applications**—from designing beautiful frontends in **Figma** and **Tailwind CSS** to deploying production-grade backend APIs.
+Hello! I'm **Satyam Pote**, a self-taught software developer with a diploma in **Mechatronics Engineering**, now working at the intersection of engineering and software. I'm passionate about building scalable applications and exploring innovative solutions to complex problems.
 
-Even though I began in mechanical systems and automation, I pivoted to software with an insatiable curiosity for how digital systems work. Today, I bring a unique blend of engineering thinking and coding to the table, building systems that are scalable, clean, and user-centric.
+Even though I began in mechanical systems and automation, I pivoted to software with an insatiable curiosity for how digital systems work. Today, I bring a unique blend of engineering thinking and coding expertise to every project I undertake.
 
 ---
 
@@ -48,6 +48,8 @@ Even though I began in mechanical systems and automation, I pivoted to software 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=flat-square&logo=next.js&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 
 ---
@@ -55,9 +57,11 @@ Even though I began in mechanical systems and automation, I pivoted to software 
 ### 🧠 Backend & Databases
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat-square&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
@@ -68,6 +72,8 @@ Even though I began in mechanical systems and automation, I pivoted to software 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-000000?style=flat-square&logo=unrealengine&logoColor=white)
@@ -78,16 +84,57 @@ Even though I began in mechanical systems and automation, I pivoted to software 
 
 ---
 
-## 🌐 Live Projects
+## 📁 Featured Projects
 
-| Project | Description | Live Link |
-|--------|-------------|-----------|
-| ✦︎  **AI Agent workflow** | Your AI-Powered Developer Command Center | [devflow.com](https://devflow-ai-ztwh.onrender.com/?inline=true&preview=true) |
-| 🔗 **CST Notes Web App** | Firebase-hosted app for engineering students | [cst-notes.web.app](https://cst-notes-71801.web.app) |
-| 🌍 **Portfolio Website** | My personal portfolio built using modern stack | [satyampote.tech](https://satyampote.tech) |
-| 🧠 **Python Web App** | DMovies-Series---Rating | [satyampote.pythonanywhere.com](https://satyampote.pythonanywhere.com) |
-| 👶 **Infant Cry Analyzer** | AI-based baby cry detection using ML | [crydecoder.web.app](https://crydecoder.web.app) |
-| 🤖  **AI-based Interviews** | AI Interviews and AI Resume Analyzer | [nexhire.com](http://nexhire.pythonanywhere.com/) |
+### 🌊 Fluxion Engine Ecosystem
+**A comprehensive game development framework with cross-platform support**
+
+The Fluxion Engine is a modular game development suite featuring support for multiple platforms and rendering systems. Explore the full ecosystem:
+
+🔗 **[Fluxion Engine Organization](https://github.com/orgs/Fluxion-engine/repositories)**
+
+**Key Features:**
+- Multi-platform game development support (Windows, macOS, Linux)
+- Advanced rendering pipeline
+- Physics simulation engine
+- Cross-platform tooling
+
+**Technologies Used:**
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![CMake](https://img.shields.io/badge/CMake-%23064F8C.svg?style=flat-square&logo=cmake&logoColor=white)
+
+---
+
+### 🎵 Watermelon Music
+**A cross-platform music streaming and player application**
+
+A comprehensive music application with support for multiple platforms including Android, iOS, Web, and API backend.
+
+🔗 **[Watermelon Music Organization](https://github.com/watermelon-music/)**
+
+**Key Features:**
+- Native Android & iOS applications
+- Web-based player interface
+- RESTful API backend
+- Real-time synchronization across devices
+
+**Technologies Used:**
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat-square&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=flat-square&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+
+---
+
+## 🌐 Active Projects & Deployments
+
+| Project | Description | Status | Link |
+|---------|-------------|--------|------|
+| ✦︎ **AI Agent Workflow** | Your AI-Powered Developer Command Center | Active | [devflow](https://devflow-ai-ztwh.onrender.com/?inline=true&preview=true) |
+| 🔗 **CST Notes Web App** | Firebase-hosted app for engineering students | Maintained | [cst-notes](https://cst-notes-71801.web.app) |
+| 🌍 **Personal Dashboard** | Personal portfolio & profile hub | Active | [dashboard](https://personal-dashboard-h4t1.onrender.com/) |
+| 🤖 **AI-based Interviews** | AI Interviews & AI Resume Analyzer | Maintained | [nexhire](http://nexhire.pythonanywhere.com/) |
 
 ---
 
@@ -106,9 +153,22 @@ Even though I began in mechanical systems and automation, I pivoted to software 
 
 | Platform | Link |
 |---------|------|
-| 🌐 Portfolio | [satyampote.tech](https://satyampote.tech) |
-| 📌 Beacons | [beacons.ai/Satyam_Pote](https://beacons.ai/Satyam_Pote) |
+| 🌐 Portfolio | [personal-dashboard-h4t1.onrender.com](https://personal-dashboard-h4t1.onrender.com/) |
 | 💼 LinkedIn | [linkedin.com/in/satyam-pote](https://www.linkedin.com/in/satyam-pote) |
 | 💻 GitHub | [github.com/SatyamPote](https://github.com/SatyamPote) |
+| 🏢 Fluxion Engine | [github.com/orgs/Fluxion-engine](https://github.com/orgs/Fluxion-engine) |
 
 ---
+
+## 🎯 What I'm Working On
+
+- 🔨 Expanding **Fluxion Engine** ecosystem with new rendering capabilities
+- 🎵 Contributing to **Watermelon Music** project development
+- 🤖 Building advanced AI-powered developer tools
+- 📚 Creating educational content for full-stack development
+
+---
+
+<p align="center">
+  <em>Always eager to collaborate on innovative projects and share knowledge with the community!</em>
+</p>
