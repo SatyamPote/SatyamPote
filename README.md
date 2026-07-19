@@ -229,13 +229,6 @@ Real-time evaluation platform using Face++ APIs for engagement scoring, pose est
 🔗 [GitHub](https://github.com/SatyamPote/AI-Video-Interviewer)
 </details>
 
-<details>
-<summary><b>💰 SocialFlo</b> — Content Automation & Subscriptions (React, Node.js, MongoDB)</summary>
-
-Multi-platform content scheduler with Stripe payment integration, automated webhooks, and Redis/Bull queue scheduling.
-
-🔗 [GitHub](https://github.com/SatyamPote/SocialFlo)
-</details>
 
 ---
 
