@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/139366115?v=4" width="120" height="120" style="border-radius: 50%;" alt="Satyam Pote" />
+   <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/e78607a5-d49e-4931-8162-2a29732c8500" />
 </p>
 
 <h1 align="center">Satyam Mahesh Pote</h1>
