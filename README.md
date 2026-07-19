@@ -243,7 +243,7 @@ Multi-platform content scheduler with Stripe payment integration, automated webh
 
 | Project | Link | Status |
 |---------|------|--------|
-| Personal Portfolio | [personal-dashboard-h4t1.onrender.com](https://personal-dashboard-h4t1.onrender.com/) | Active |
+| Personal Portfolio | [personal-dashboard-h4t1.onrender.com](https://personal-dashboard-h4t1.onrender.com/) | Under Maintenance |
 | DevFlow.Ai | [devflow-ai-ztwh.onrender.com](https://devflow-ai-ztwh.onrender.com/) | Active |
 | CST Notes | [cst-notes-71801.web.app](https://cst-notes-71801.web.app/) | Under Maintenance |
 | NexHire AI Interviews | [nexhire.pythonanywhere.com](http://nexhire.pythonanywhere.com) | Under Maintenance |
